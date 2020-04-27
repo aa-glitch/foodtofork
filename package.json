@@ -16,7 +16,9 @@
   "dependencies": {
     "axios": "^0.18.1",
     "core-js": "^3.6.5",
+    "express": "^4.17.1",
     "fractional": "^1.0.0",
+    "path": "^0.12.7",
     "regenerator-runtime": "^0.13.5",
     "uniqid": "^4.1.1"
   },
