@@ -15,7 +15,7 @@
     "test": "webpack-dev-server --mode development --open"
   },
   "dependencies": {
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "core-js": "^3.6.5",
     "express": "^4.17.1",
     "fractional": "^1.0.0",
